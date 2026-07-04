@@ -38,4 +38,4 @@ modules:
       - type: git
         url: https://github.com/alamahant/Sadhana.git
         tag: v1.0.2
-        commit: b4f1eb37c107e1b938ff4dd8ab65e685b59bee72
+        commit: 7c1d8a208c26d3ed87c3ab323994a6903206616f
